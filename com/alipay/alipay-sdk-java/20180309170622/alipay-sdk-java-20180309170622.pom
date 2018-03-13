@@ -1,0 +1,26 @@
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>20180309170622</modelVersion>
+   <groupId>com.alipay</groupId>
+   <artifactId>alipay-sdk-java</artifactId>
+   <version>20180309170622</version>
+  <packaging>jar</packaging>
+  <name>alipay-sdk</name>
+  <description>
+    alipay-sdk written in Java
+  </description>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  <organization>
+    <name>Alibaba Group</name>
+    <url>https://github.com/alibaba</url>
+  </organization>
+  <build>
+    <plugins>
+  
+    </plugins>
+  </build>
+  <dependencies>
+  </dependencies>
+</project>
