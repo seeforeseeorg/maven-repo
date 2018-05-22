@@ -1,0 +1,25 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Feb 15 11:56:22 CST 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1476851292423
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1476851289580
+@default-Aliyun\ Releases-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1518666981608
+http\://repo.spring.io/snapshot/.lastUpdated=1476851286875
+http\://repo.spring.io/snapshot/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1518666982619
+http\://maven.cloudhopper.com/repos/third-party/.error=Could not transfer artifact com.octo.captcha\:jcaptcha-api\:pom\:2.0-alpha-1 from/to cloudhopper (http\://maven.cloudhopper.com/repos/third-party/)\: maven.cloudhopper.com
+http\://repo.maven.apache.org/maven2/.lastUpdated=1476851290710
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.octo.captcha\:jcaptcha-api\:pom\:2.0-alpha-1 from/to central (https\://repo.maven.apache.org/maven2)\: Can't connect to SOCKS proxy\:Connection refused\: connect
+http\://repo.spring.io/release/.lastUpdated=1476851286335
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact com.octo.captcha\:jcaptcha-api\:pom\:2.0-alpha-1 from/to Aliyun Releases (http\://maven.aliyun.com/nexus/content/groups/public)\: Can't connect to SOCKS proxy\:Connection refused\: connect
+http\://download.java.net/maven/2/.lastUpdated=1476851285785
+http\://repo.maven.apache.org/maven2/.error=
+https\://oss.sonatype.org/content/repositories/sourceforge-releases/.lastUpdated=1476851296218
+http\://download.java.net/maven/2/.error=
+@default-oschina\ Releases-http\://maven.oschina.net/content/groups/public/.lastUpdated=1476851282837
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact com.octo.captcha\:jcaptcha-api\:pom\:2.0-alpha-1 from/to oschina Releases (http\://maven.oschina.net/content/groups/public)\: connect timed out
+https\://repository.apache.org/content/groups/public/.error=
+https\://repository.apache.org/content/groups/public/.lastUpdated=1476851284463
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+@default-cloudhopper-http\://maven.cloudhopper.com/repos/third-party/.lastUpdated=1476851286892
+http\://repo.spring.io/release/.error=
+http\://repo1.maven.org/maven2/.error=
